@@ -1,6 +1,6 @@
 *<h1>👋 Hi, I'm Christian Tinco </h1>*
 
-I'm a growing frontend/backend developer, Systems Engineering student, and tech enthusiast. I enjoy learning by building—whether it’s full web systems, useful tools, or AI experiments. My goal is to create projects with real impact and showcase them as part of my portfolio.
+I'm a growing frontend/backend developer, project manager junior, Systems Engineering student, and tech enthusiast. I enjoy learning by building—whether it’s full web systems, useful tools, or AI experiments. My goal is to create projects with real impact and showcase them as part of my portfolio.
 
 ## 🚀 About Me
 - 🎓 Systems Engineering student (UNAC).
